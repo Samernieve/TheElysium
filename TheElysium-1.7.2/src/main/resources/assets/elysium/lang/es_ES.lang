@@ -1,148 +1,148 @@
-itemGroup.elysium=The Elysium
+itemGroup.elysium=El Elíseo
 
-cave.elysium.name=Elysium Cave
+cave.elysium.name=Cueva del Elíseo
 
-tile.palestone.name=Palestone
-tile.elysium_dirt.name=Elysium Dirt
-tile.elysium_grass.name=Elysium Grass
-tile.leucosand.name=Whitesand
-tile.rilt.name=Rilt
+tile.palestone.name=Piedra Pálida
+tile.elysium_dirt.name=Tierra del Elíseo
+tile.elysium_grass.name=Césped del Elíseo
+tile.leucosand.name=Arena Blanca
+tile.rilt.name=Riléa
 
-tile.elysium_sapling.fostimber.name=Fostimber Sapling
-tile.elysium_sapling.silver.name=Gildensilv Sapling
-tile.elysium_log.fostimber.name=Fostimber Log
-tile.elysium_log.silver.name=Gildensilv Log
-tile.elysium_log.corrupt.name=Corrupted Log
-tile.elysium_leaves.fostimber.name=Fostimber Leaves
-tile.elysium_leaves.silver.name=Silver Leaves
-tile.elysium_planks.fostimber.name=Fostimber Planks
-tile.elysium_planks.silver.name=Gildensilv Planks
-tile.elysium_flower.asphodel.name=Asphodel Flower
-tile.elysium_flower.midas.name=Midas Flower
-tile.elysium_tallgrass.curlgrass.name=Curlgrass
+tile.elysium_sapling.fostimber.name=Brote de Fostimber
+tile.elysium_sapling.silver.name=Brote de Gildensilv
+tile.elysium_log.fostimber.name=Tronco de Fostimber
+tile.elysium_log.silver.name=Tronco de Gildensilv
+tile.elysium_log.corrupt.name=Tonco Corrupto
+tile.elysium_leaves.fostimber.name=Hojas de Fostimber
+tile.elysium_leaves.silver.name=Hojas Plateadas
+tile.elysium_planks.fostimber.name=Tablones de Fostimber
+tile.elysium_planks.silver.name=Tablones de Gildensilv
+tile.elysium_flower.asphodel.name=Flor de Asfódelo
+tile.elysium_flower.midas.name=Flor de Midas
+tile.elysium_tallgrass.curlgrass.name=Césped Rizado
 
-tile.oreSulphur.name=Sulphur Ore
-tile.oreBeryl.name=Beryl Ore
-tile.oreCobalt.name=Cobalt Ore
-tile.oreIridium.name=Iridium Ore
-tile.oreSilicon.name=Silicon Ore
-tile.oreJade.name=Jade Ore
-tile.oreTourmaline.name=Tourmaline Ore
+tile.oreSulphur.name=Mena de Sulfuro
+tile.oreBeryl.name=Mena de Berilo
+tile.oreCobalt.name=Mena de Cobalto
+tile.oreIridium.name=Mena de Iridio
+tile.oreSilicon.name=Mena de Silicona
+tile.oreJade.name=Mena de Jade
+tile.oreTourmaline.name=Mena de Turmalina
 
-tile.elysium_water.name=Elysium Water
-tile.elysium_energy.name=Energy Liquid
-tile.energy_crystal.pure.name=Energy Crystal
-tile.energy_crystal.corrupted.name=Corrupted Energy Crystal
-tile.floating_block_conch.name=Floating Conch
-tile.floating_block_shell.name=Floating Shell
+tile.elysium_water.name=Agua Elísea
+tile.elysium_energy.name=Energía Líquida
+tile.energy_crystal.pure.name=Cristal de Energía
+tile.energy_crystal.corrupted.name=Cristal de Energía Corrompido
+tile.floating_block_conch.name=Concha Flotante
+tile.floating_block_shell.name=Cascarón Flotante
 
-tile.blockSulphur.name=Sulphur Block
-tile.blockBeryl.name=Beryl Block
-tile.blockCobalt.name=Cobalt Block
-tile.blockIridium.name=Iridium Block
-tile.blockSilicon.name=Silicon Block
-tile.blockJade.name=Jade Block
-tile.blockTourmaline.name=Tourmaline Block
+tile.blockSulphur.name=Bloque de Sulfuro
+tile.blockBeryl.name=Bloque de Berilo
+tile.blockCobalt.name=Bloque de Cobalto
+tile.blockIridium.name=Bloque de Iridio
+tile.blockSilicon.name=Bloque de Silicona
+tile.blockJade.name=Bloque de Jade
+tile.blockTourmaline.name=Bloque de Turmalina
 
-tile.blockCactus.name=Hallowed Cactus
-tile.blockRaspberryBush.name=Raspberry Bush
-tile.blockGrapes.name=Grapes Bush
+tile.blockCactus.name=Cactus Sagrado
+tile.blockRaspberryBush.name=Frambueso
+tile.blockGrapes.name=Viña
 
-tile.quartzFence.clean.name=Quartz Fence
-tile.quartzFence.mossy.name=Mossy Quartz Fence
-tile.quartzWall.clean.name=Quartz Wall
-tile.quartzWall.mossy.name=Mossy Quartz Wall
-tile.quartz_mossy.default.name=Mossy Quartz Block
-tile.quartz_mossy.chiseled.name=Mossy Chiseled Quartz Block
-tile.quartz_mossy.lines.name=Mossy Pillar Quartz Block
-tile.quartzGate.name=Quartz Gate
+tile.quartzFence.clean.name=Valla de Cuarzo
+tile.quartzFence.mossy.name=Valla de Cuarzo Musgosa
+tile.quartzWall.clean.name=Muro de Cuarzo
+tile.quartzWall.mossy.name=Muro de Cuarzo Musgoso
+tile.quartz_mossy.default.name=Bloque de Cuarzo Musgoso
+tile.quartz_mossy.chiseled.name=Bloque de Cuarzo Cincelado Musgoso
+tile.quartz_mossy.lines.name=Pilar de Cuarzo Musgoso
+tile.quartzGate.name=Puerta de Cuarzo
 
 
-item.prism.name=Grace Prism
-item.seeds_pepper.name=Pepper Seed
-item.overkill.name=Overkill Weapon - NOT BALLANCED!
-item.asphodelpetal.name=Asphodel Petal
-item.debug.name=Teleporter (Shift + Right Click)
-item.beryl.name=Beryl
-item.ingotCobalt.name=Cobalt Ingot
-item.ingotIridium.name=Iridium Ingot
+item.prism.name=Prisma de Gracia
+item.seeds_pepper.name=Semillas de Pimientos
+item.overkill.name=Arma Excesiva - ¡QUÉ 'INYUSTISIA'!
+item.asphodelpetal.name=Pétalo de Asfódelo
+item.debug.name=Teletransportador (Shift + Clic derecho)
+item.beryl.name=Berilo
+item.ingotCobalt.name=Lingote de Cobalto
+item.ingotIridium.name=Lingote de Iridio
 item.jade.name=Jade
-item.siliconchunk.name=Silicon Chunk
-item.elysium_sulphur.name=Sulphur
-item.tourmaline.name=Tourmaline
-item.ingotTooth.name=Tooth Ingot
-item.sturdyHide.name=Sturdy Hide
-item.elysium_bucket_water.name=Holy Water Bucket
-item.elysium_bucket_energy.name=Energy Fluid Bucket
+item.siliconchunk.name=Pedazo de Silicona
+item.elysium_sulphur.name=Sulfuro
+item.tourmaline.name=Turmalina
+item.ingotTooth.name=Lingote Dental
+item.sturdyHide.name=Pellejo Robusto
+item.elysium_bucket_water.name=Cubo de Agua Sagrada
+item.elysium_bucket_energy.name=Cubo de Energía Líquida
 
-fluid.elysium_energy=Energy Fluid
-fluid.elysium_water=Holy Water
+fluid.elysium_energy=Energía Líquida
+fluid.elysium_water=Agua Sagrada
 
-item.deer_pelt.name=Deer Pelt
-item.grapes.white.name=White Grapes
-item.grapes.blue.name=Blue Grapes
-item.raspberry.name=Raspberry
+item.deer_pelt.name=Piel de Ciervo
+item.grapes.white.name=Uvas Blancas
+item.grapes.blue.name=Uvas Tintas
+item.raspberry.name=Frambuesa
 
-item.staff.earth.name=Earth Staff
-item.staff.ice.name=Ice Staff
-item.staff.ender.name=Ender Staff
-item.staff.fire.name=Fire Staff
+item.staff.earth.name=Vara de la Tierra
+item.staff.ice.name=Vara de Hielo
+item.staff.ender.name=Vara de Ender
+item.staff.fire.name=Vara de Fuego
 
-item.horn.name=Horn
-item.antler.name=Antler
-item.hard_paw.name=Tooth
-item.knife.name=Knife
+item.horn.name=Cuerno
+item.antler.name=Asta
+item.hard_paw.name=Diente
+item.knife.name=Cuchillo
 
-item.swordFostimber.name=Fostimber Sword
-item.pickaxeFostimber.name=Fostimber Pickaxe
-item.axeFostimber.name=Fostimber Axe
-item.axeFostimber.name=Fostimber Axe
-item.shovelFostimber.name=Fostimber Shovel
-item.hoeFostimber.name=Fostimber Hoe
+item.swordFostimber.name=Espada de Fostimber
+item.pickaxeFostimber.name=Pico de Fostimber
+item.axeFostimber.name=Hacha de Fostimber
+item.axeFostimber.name=Hacha de Fostimber
+item.shovelFostimber.name=Pala de Fostimber
+item.hoeFostimber.name=Azada de Fostimber
 
-item.swordPalestone.name=Palestone Sword
-item.pickaxePalestone.name=Palestone Pickaxe
-item.axePalestone.name=Palestone Axe
-item.axePalestone.name=Palestone Axe
-item.shovelPalestone.name=Palestone Shovel
-item.hoePalestone.name=Palestone Hoe
+item.swordPalestone.name=Espada de Piedra Pálida
+item.pickaxePalestone.name=Pico de Piedra Pálida
+item.axePalestone.name=Hacha de Piedra Pálida
+item.axePalestone.name=Hacha de Piedra Pálida
+item.shovelPalestone.name=Pala de Piedra Pálida
+item.hoePalestone.name=Azada de Piedra Pálida
 
-item.enderflute.name=Ender Flute
+item.enderflute.name=Flauta de Ender
 
-item.toothIngot.name=Tooth Ingot
-item.toothHelmet.name=Tooth Helmet
-item.toothChestplate.name=Tooth Chestplate
-item.toothLeggings.name=Tooth Leggings
-item.toothBoots.name=Tooth Boots
+item.toothIngot.name=Lingote Dental
+item.toothHelmet.name=Yelmo Dental
+item.toothChestplate.name=Pechera Dental
+item.toothLeggings.name=Mallas Dentales
+item.toothBoots.name=Botas Dentales
 
-item.Wand.pure.cap=Pure Energy Capped
-item.Wand.corrupted.cap=Corrupted Energy Capped
+item.Wand.pure.cap=Energía Pura Encapuchada
+item.Wand.corrupted.cap=Energía Corrupta Encapuchada
 
-item.Wand.horn.rod=Unicorn Horn
+item.Wand.horn.rod=Cuerno de Unicornio
 
-item.WandCores.horn.name=Unicorn Horn Rod
+item.WandCores.horn.name=Vara de Cuerno de Unicornio
 
-item.WandCaps.pure.name=Pure Energy Cap
-item.WandCaps.corrupted.name=Corrupted Energy Cap
+item.WandCaps.pure.name=Capuchón de Energía Pura
+item.WandCaps.corrupted.name=Capuchón de Energía Corrupta
 
-flute.tips.0=Hmm... looks like a musical instrument
-flute.tips.1=Its sound could be heard from a long distance...
-flute.tips.2=Sorry, I can't use it HERE!
+flute.tips.0=Hmm... parece un instrumento musical.
+flute.tips.1=Su sonido podría escucharse desde una larga distancia...
+flute.tips.2=¡Lo siento, no puedo usarla aquí!
 
-flute.dragonExist.0=Looks like there is a dragon here...
-flute.dragonExist.1=Oh! There is the Ender Dragon!
-flute.dragonExist.2=There can't be more dragons in this dimension...
-flute.dragonExist.3=There should be a dragon somewhere here...
+flute.dragonExist.0=Parece que aquí hay un dragón...
+flute.dragonExist.1=¡Oh! Es el Dragón del Fin!
+flute.dragonExist.2=No puede haber más dragones en esta dimensión...
+flute.dragonExist.3=Debería haber un dragón en algún otro lugar...
 
-tc.aspect.sanctus=Sanctus
-tc.aspect.help.sanctus=Holiness
+tc.aspect.sanctus=Santo
+tc.aspect.help.sanctus=Santidad
 
 
-entity.ElysiumCaterPillar.name=Cater Pillar
-entity.ElysiumSwan.name=Swan
-entity.ElysiumEvolvedOyster.name=Evolved Oyster
-entity.ElysiumDeer.name=Deer
-entity.ElysiumUnicorn.name=Pink Unicorn
-entity.ElysiumVoidSpecter.name=Void Specter
-entity.ElysiumEnderMage.name=Ender Mage
-entity.ElysiumHero.name=Hero
+entity.ElysiumCaterPillar.name=Pilar de Abastecimiento
+entity.ElysiumSwan.name=Cisne
+entity.ElysiumEvolvedOyster.name=Ostra Evolucionada
+entity.ElysiumDeer.name=Ciervo
+entity.ElysiumUnicorn.name=Unicornio Rosa
+entity.ElysiumVoidSpecter.name=Espectro del Vacío
+entity.ElysiumEnderMage.name=Mago de Ender
+entity.ElysiumHero.name=Héroe
